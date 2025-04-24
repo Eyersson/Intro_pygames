@@ -219,4 +219,16 @@ while True:
 
 - La nocion de group permite agrupar los objetos del mismo tipo. Ejemplo: todos los soldados de un ejercito lo que se entiende como una coleccion de instancias de una clase Soldado.
 
-- Un determinado procesamiento se puede aplicara un conjunto o subconjunto de sprites. Ejemplo: cambiar el color de todos los enemigos o hacer invisibles algunos objetos
+- Un determinado procesamiento se puede aplicara 
+
+ ## Uso de sprite
+
+ - Cuando desarrollamos un videojuego, necesitamos representar objetos gráficos que interactúan con los jugadores o el entorno del juego. En Pygame, estos objetos gráficos se representan mediante sprites, que son imágenes o figuras que se pueden mover, cambiar, o interactuar en la pantalla del juego.
+
+ # ¡Que es un sprite?
+
+ - Es un objeto visual dentro de un videojuego. Puede ser cualquier cosa, desde un personaje, un enemigo, hasta un simple proyectil o un fondo. Los sprites tienen varias características que les permiten interactuar con el mundo del juego, como posición, tamaño, velocidad, y más.
+
+# ¿Que es group?
+
+-  Es una estructura de datos que agrupa varios sprites para facilitar su actualización y dibujo de manera conjunta. Es una herramienta poderosa para gestionar juegos con múltiples objetos visuales, lo que mejora la organización y eficiencia del código.
